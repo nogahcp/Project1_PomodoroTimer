@@ -29,7 +29,7 @@ import PomodoroTimer from './components/PomodoroTimer'
 const App: () => React$Node = () => {
   return (
       <SafeAreaView style={{flex: 1}}>
-        <PomodoroTimer/>
+          <PomodoroTimer/>
       </SafeAreaView>
   );
 };
